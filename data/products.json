@@ -1,0 +1,93 @@
+[
+            {
+                "id": 1,
+                "name": "Full Sole Repair",
+                "price": 50.00,
+                "price_id": "price_1LzpwPGPrz27CD8t7vwuAeup",
+                "detail": "Price per pair. Replacement of toe cap, outsole, middle sole, and heel of shoes",
+                "imgUrls": [
+                    "/imgs/products/full%20sole.jpg",
+                    "/imgs/products/full%20sole%20v2.jpeg"
+                ],
+                "category": "Repair Service"
+            },
+            {
+                "id": 2,
+                "name": "Full Sole & Rand Repair",
+                "price": 65.00,
+                "price_id": "price_1LzpxRGPrz27CD8t7v7mIPcJ",
+                "detail": "Price per pair. Replacement of toe cap, outsole, middle sole, and heel of shoes",
+                "imgUrls": [
+                    "/imgs/products/full%20sole%20&%20rand.jpg",
+                    "/imgs/products/full%20sole%20&%20rand%20v2.jpeg"
+                ],
+                "category": "Repair Service"
+            },
+            {
+                "id": 3,
+                "name": "Half Sole Repair",
+                "price": 40.00,
+                "price_id": "price_1LzpyGGPrz27CD8tkAE3GoyO",
+                "detail": "Price per pair. Replacement of rubber on the outsole and toe cap of the shoes",
+                "imgUrls": [
+                    "/imgs/products/half%20sole.jpg",
+                    "/imgs/products/half%20sole%20v2.jpeg"
+                ],
+                "category": "Repair Service"
+            },
+            {
+                "id": 4,
+                "name": "Half Sole & Rand Repair",
+                "price": 55.00,
+                "price_id": "price_1LzpyuGPrz27CD8trz3l8gxN",
+                "detail": "Price per pair. Replacement of rubber on the outsole and toe box",
+                "imgUrls": [
+                    "/imgs/products/half%20sole%20&%20rand.jpg",
+                    "/imgs/products/half%20sole%20&%20rand.jpg"
+                ],
+                "category": "Repair Service"
+            },
+            {
+                "id": 5,
+                "name": "Recommendation",
+                "price": 55.00,
+                "price_id": "price_1Lzq0NGPrz27CD8ti1svr5hz",
+                "detail": "Not sure what repairs are required? We shall complete repairs as we see fit and will only charge for work done",
+                "imgUrls": [
+                    "/imgs/products/recommendation.jpg",
+                    "/imgs/products/recommendation%20v2.jpg"
+                ],
+                "category": "Repair Service"
+            },
+
+            {
+                "id": 6,
+                "name": "Leather Chalk Bag - orange",
+                "price": 50.00,
+                "price_id": "price_1Lzq3sGPrz27CD8t9zRD6GcN",
+                "detail": "Handmade leather chalk bag with built in pockets & brush holder",
+                "imgUrls": [
+                    "/imgs/products/chalkbags/chalkbag_orange_front.jpg",
+                    "/imgs/products/chalkbags/chalkbag_orange_left.jpg",
+                    "/imgs/products/chalkbags/chalkbag_orange_right.jpg",
+                    "/imgs/products/chalkbags/chalkbag_orange_top.jpg"
+                ],
+                "category": "Chalk Bags"
+            },
+            {
+                "id": 7,
+                "name": "Leather Chalk Bag - white",
+                "price": 50.00,
+                "price_id": "price_1Lzq2bGPrz27CD8tf08BQC6e",
+                "detail": "Handmade leather chalk bag with built in pockets & brush holder",
+                "imgUrls": [
+                    "/imgs/products/chalkbags/chalkbag_white_front.jpg",
+                    "/imgs/products/chalkbags/chalkbag_white_back.jpg",
+                    "/imgs/products/chalkbags/chalkbag_white_right.jpg",
+                    "/imgs/products/chalkbags/chalkbag_white_top.jpg",
+                    "/imgs/products/chalkbags/chalkbag_white_brushholder.jpg",
+                    "/imgs/products/chalkbags/chalkbag_white_tag.jpg"
+                ],
+                "category": "Chalk Bags"
+            }
+]

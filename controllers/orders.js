@@ -1,4 +1,4 @@
-const productsData = require('../../client/src/data/products.json');
+const productsData = require('../data/products.json');
 const Order = require('../models/Order');
 const User = require('../models/User');
 const stripe = require('stripe')(process.env.STRIPE_SECRET);
