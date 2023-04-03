@@ -16,7 +16,7 @@ mongoose.connect(process.env.MONGO_CONNECTION_URL)
 .catch(e => console.log('error connecting to Mongo ', e));
 
 app.use(cors({
-    origin: ["http://localhost:3000/", "https://v12resole.onrender.com"]
+    origin: ["http://localhost:3000", "https://v12resole.onrender.com"]
 }));
 app.use(express.json());
 
